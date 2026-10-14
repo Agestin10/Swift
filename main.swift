@@ -4,7 +4,7 @@ let studentName = "Asha"
 let rollNumber: Int = 2301
 
 var semester: Int = 5
-var cgpa: Double = 8.2
+var cgpa: Double = 7.1
 
 let isHosteller: Bool = true
 
