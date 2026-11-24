@@ -1,0 +1,10 @@
+
+import Foundation
+
+let square = { (number: Int) -> Int in
+    return number * number
+}
+
+let result = square(5)
+
+print("Square of 5 is: \(result)")
