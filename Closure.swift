@@ -1,7 +1,5 @@
 
-import Foundation
-
-let square = { (number: Int) -> Int in
+var square = { (number: Int) -> Int in
     return number * number
 }
 
